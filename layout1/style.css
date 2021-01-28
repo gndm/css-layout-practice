@@ -1,3 +1,20 @@
-h1 {
-  color: rebeccapurple;
+.box1{
+  background-color: rgb(180, 175, 175);
+  color: white;
+  height: 100px;
+  width: 500px;
+  padding: 20px;
+  border-bottom: 10px;
+}
+
+.box2 {
+  background-color: rgb(121, 112, 112);
+  color: white;
+  height: 100px;
+  width: 500px;
+  padding: 20px;
+}
+
+.flex_purpose {
+  display: flex;
 }
